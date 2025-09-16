@@ -1,0 +1,4 @@
+Flask==2.3.5
+pdfplumber==0.10.1
+ebooklib==0.18
+gunicorn==20.1.0
